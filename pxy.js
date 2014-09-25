@@ -17,7 +17,6 @@
 		});
 
 		$('#pxy-y').css({
-			'width':'100px',
 			'background-color':'rgba(200,200,200,.8)',
 			'border-radius':'30px',
 			'position':'relative',
@@ -25,7 +24,6 @@
 		});
 
 		$('#pxy-x').css({
-			'width':'100px',
 			'background-color':'rgba(200,200,200,.8)',
 			'border-radius':'30px',
 			'position':'relative',
